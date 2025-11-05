@@ -72,7 +72,7 @@ Creating efficient, serverless, and containerized Node.js apps using CI/CD pipel
 - 💼 [LinkedIn](https://www.linkedin.com/in/malila-nyamai-0b2711221/)  
 - 🌐 [Portfolio](https://malila-nyamai.netlify.app/)  
 - 🧑‍💻 [GitHub](https://github.com/malila-nyamai)  
-- ✉️ Email: `malila@example.com`
+- ✉️ Email: `nyamaibigjoash@gmail.com`
 
 ---
 
