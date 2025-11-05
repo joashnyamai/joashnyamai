@@ -27,7 +27,7 @@
 I'm **Malila Nyamai**, a dedicated software developer based in **Kenya**.  
 I design and build impactful web applications focused on **excellent UX** and **scalable architectures**.
 
-Active under [@joashnyamai](https://github.com/joashnyamai) — contributing to open-source, mentoring, and helping teams adopt modern web technologies.
+Active under [@joashnyamai](https://github.com/joashnyamai) contributing to open-source, mentoring, and helping teams adopt modern web technologies.
 
 - 🔭 **Working on:** scalable, responsive front-end architectures  
 - 🌱 **Learning:** TypeScript, DevOps, Docker  
