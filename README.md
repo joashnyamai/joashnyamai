@@ -21,8 +21,6 @@
 
 </div>
 
----
-
 ### 💡 About
 I'm **Malila Nyamai**, a dedicated software developer based in **Kenya**.  
 I design and build impactful web applications focused on **excellent UX** and **scalable architectures**.
@@ -36,7 +34,6 @@ Active under [@joashnyamai](https://github.com/joashnyamai) contributing to open
 - 😄 **Pronouns:** he/him  
 - ⚡ **Fun fact:** I built a weather dashboard that plays Benga on rainy days 🎶  
 
----
 
 ### 🧠 Focus Areas & Projects
 
@@ -65,7 +62,6 @@ Creating efficient, serverless, and containerized Node.js apps using CI/CD pipel
 
 </div>
 
----
 
 ### 🤝 Contact & Links
 
@@ -74,7 +70,6 @@ Creating efficient, serverless, and containerized Node.js apps using CI/CD pipel
 - 🧑‍💻 [GitHub](https://github.com/malila-nyamai)  
 - ✉️ Email: `nyamaibigjoash@gmail.com`
 
----
 
 <p align="center">
   <small>Made with ❤️ — <em>Malila Nyamai • Kenya</em></small>
