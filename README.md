@@ -1,7 +1,7 @@
-
+<!--
   GitHub Profile README — Malila Nyamai
   Markdown + minimal inline HTML (no CSS/JS)
-
+-->
 <div align="center">
 
   <h1>👋 Hi, I'm <strong>Malila Nyamai</strong></h1>
