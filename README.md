@@ -1,7 +1,6 @@
-<!--
+
   GitHub Profile README — Malila Nyamai
   Markdown + minimal inline HTML (no CSS/JS)
--->
 
 <div align="center">
 
