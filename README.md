@@ -80,5 +80,5 @@ Leveraging cutting-edge tools and frameworks Next.js, TailwindCSS, Vite with per
 ---
 
 <p align="center">
-  <small>Made with ❤️ in Kenya — <strong>Malila Nyamai</strong> • Frontend Developer & Co-founder</small>
+  <small>Made with ❤️ by <strong>Malila Nyamai</strong> • Frontend Developer & Co-founder</small>
 </p>
