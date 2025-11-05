@@ -1,8 +1,4 @@
-<!--
-  This is your GitHub Profile README
-  It supports HTML, CSS, and limited JS
--->
-
+```html
 <!doctype html>
 <html lang="en">
 <head>
