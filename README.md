@@ -23,7 +23,7 @@
 
 I'm **Malila Nyamai**, a frontend developer and co-founder based in **Kenya**.  
 
-At **RemoBoglow**, I lead frontend development, turning complex challenges into intuitive, performant web applications. My work focuses on **pixel-perfect UI**, **accessibility**, and **scalable component architectures** that delight users and empower teams.
+At **Remboglow**, I lead frontend development, turning complex challenges into intuitive, performant web applications. My work focuses on **pixel-perfect UI**, **accessibility**, and **scalable component architectures** that delight users and empower teams.
 
 Active under [@joashnyamai](https://github.com/joashnyamai), contributing to open-source, mentoring developers, and pushing the boundaries of modern web development.
 
