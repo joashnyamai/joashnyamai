@@ -72,7 +72,7 @@ Leveraging cutting-edge tools and frameworks Next.js, TailwindCSS, Vite with per
 ### 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/malila-nyamai-0b2711221/)  
-- 🌐 [Portfolio](https://malila-nyamai.netlify.app/)  
+- 🌐 [Portfolio](https://malilanyamai-portfolio.netlify.app/)  
 - 🧑‍💻 [GitHub](https://github.com/joashnyamai)  
 - ✉️ Email: `nyamaibigjoash@gmail.com`  
 - 🚀 **RemboGlow:** Discover your perfect look
