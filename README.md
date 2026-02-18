@@ -12,7 +12,7 @@
   </p>
   <p>
     <a href="https://www.linkedin.com/in/malila-nyamai-0b2711221/" target="_blank">LinkedIn</a> •
-    <a href="https://malila-nyamai.netlify.app/" target="_blank">Portfolio</a> •
+    <a href="https://malilanyamai-portfolio.netlify.app/" target="_blank">Portfolio</a> •
     <a href="https://github.com/joashnyamai" target="_blank">GitHub</a>
   </p>
 </div>
