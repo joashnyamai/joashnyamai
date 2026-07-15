@@ -28,6 +28,8 @@ At **Remboglow**, I lead frontend development, turning complex challenges into i
 Active under [@joashnyamai](https://github.com/joashnyamai), contributing to open-source, mentoring developers, and pushing the boundaries of modern web development.
 
 - 🚀 **Co-founder @ Remboglow:** Building innovative digital solutions  
+- 📱 **Creator @ eFoleni:** An intelligent electronic queue management system eliminating physical queues via real-time SMS and web updates  
+- ☁️ **Lead Developer @ KiwamiTestCloud:** A modern, enterprise-grade cloud QA and test management suite featuring automated execution tracking and AI testing assistants  
 - 🎨 **Specializing in:** React, TypeScript, responsive design systems  
 - 🌱 **Currently exploring:** Advanced animations, micro-interactions, Web3  
 - 👯 **Open to:** Frontend collaborations and startup partnerships  
@@ -37,16 +39,26 @@ Active under [@joashnyamai](https://github.com/joashnyamai), contributing to ope
 
 ---
 
+### 📂 Featured Projects
+
+#### 📱 eFoleni
+A smart electronic queue management system designed to digitize line waiting in healthcare, retail, and public services across Kenya. It utilizes real-time client-side synchronization and SMS alerts to notify users of their queue progress, eliminating the need to stand in physical lines.
+
+#### ☁️ KiwamiTestCloud
+A comprehensive test management system that connects suite databases, RTM (Requirements Traceability Matrix) tracking, visual reports telemetry, and AI-driven manual test designers under a unified responsive platform.
+
+---
+
 ### 🧠 What I Do
 
 #### 🎯 Frontend Architecture
-Building scalable, maintainable React applications with TypeScript, React, Angular state management patterns, and component-driven design systems that scale with your business.
+Building scalable, maintainable React applications with TypeScript, React, state management patterns, and component-driven design systems that scale with your business.
 
 #### ✨ User Experience Design
 Crafting smooth, delightful interfaces with thoughtful animations, accessibility first approaches, and mobile-responsive layouts that users love.
 
 #### 🔧 Modern Web Development
-Leveraging cutting-edge tools and frameworks Next.js, TailwindCSS, Vite with performance optimization, SEO best practices, and cross-browser compatibility.
+Leveraging cutting-edge tools and frameworks (Next.js, TailwindCSS, Vite) with performance optimization, SEO best practices, and cross-browser compatibility.
 
 ---
 
@@ -73,7 +85,7 @@ Leveraging cutting-edge tools and frameworks Next.js, TailwindCSS, Vite with per
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/malila-nyamai-0b2711221/)  
 - 🌐 [Portfolio](https://malilanyamai-portfolio.netlify.app/)  
-- 🧑‍💻 [GitHub](https://github.com/joashnyamai)  
+- 🧑💻 [GitHub](https://github.com/joashnyamai)  
 - ✉️ Email: `nyamaibigjoash@gmail.com`  
 - 🚀 **RemboGlow:** Discover your perfect look
 
