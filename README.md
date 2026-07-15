@@ -28,8 +28,8 @@ At **Remboglow**, I lead frontend development, turning complex challenges into i
 Active under [@joashnyamai](https://github.com/joashnyamai), contributing to open-source, mentoring developers, and pushing the boundaries of modern web development.
 
 - 🚀 **Co-founder @ Remboglow:** Building innovative digital solutions  
-- 📱 **Creator @ eFoleni:** An intelligent electronic queue management system eliminating physical queues via real-time SMS and web updates  
-- ☁️ **Lead Developer @ KiwamiTestCloud:** A modern, enterprise-grade cloud QA and test management suite featuring automated execution tracking and AI testing assistants  
+- 🏫 **Frontend Developer @ [eFoleni](https://efoleni.co.ke/):** A streamlined digital onboarding and management platform for schools, automating institutional setup, class scheduling, and administrative operations  
+- ☁️ **Lead Developer @ [KiwamiTestCloud](https://kiwamitestcloud.com/):** An enterprise cloud QA and test case management platform equipped with visual analytics dashboards, live database sync, and AI manual test generation assistants  
 - 🎨 **Specializing in:** React, TypeScript, responsive design systems  
 - 🌱 **Currently exploring:** Advanced animations, micro-interactions, Web3  
 - 👯 **Open to:** Frontend collaborations and startup partnerships  
@@ -41,10 +41,10 @@ Active under [@joashnyamai](https://github.com/joashnyamai), contributing to ope
 
 ### 📂 Featured Projects
 
-#### 📱 eFoleni
-A smart electronic queue management system designed to digitize line waiting in healthcare, retail, and public services across Kenya. It utilizes real-time client-side synchronization and SMS alerts to notify users of their queue progress, eliminating the need to stand in physical lines.
+#### 🏫 [eFoleni](https://efoleni.co.ke/)
+An automated onboarding and administration setup platform designed for schools in Kenya. Simplifies institutional configurations, student record management, and academic structuring through a fast, responsive user interface.
 
-#### ☁️ KiwamiTestCloud
+#### ☁️ [KiwamiTestCloud](https://kiwamitestcloud.com/)
 A comprehensive test management system that connects suite databases, RTM (Requirements Traceability Matrix) tracking, visual reports telemetry, and AI-driven manual test designers under a unified responsive platform.
 
 ---
